@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+🙄+🙄+🙄;Code+or+Coffee+?;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+?+?;Code+or+Coffee+?;" />
 </p>
 
 # 👋 Hi, I'm Ratul
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🧠 About Me
 
