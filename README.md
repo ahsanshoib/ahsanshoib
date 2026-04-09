@@ -6,7 +6,7 @@
 
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🧠 About Me
+ABOUT ME :
 
 - Full-stack developer (Next.js + Express + MongoDB)
 - Strong in Authentication (JWT, Protected Routes)
