@@ -23,6 +23,13 @@
 
 ---
 
+## 🎨 Featured UI / Mockup Design
+
+<p align="center">
+  <img src="mockup.png" width="850"/>
+</p>
+
+> ⚡ Modern LinkedIn / Portfolio mockup design showcasing UI/UX structure and personal branding.
 ## 🌐 Connect
 
 <a href="https://linkedin.com/in/ahsan-shoib-ratul">LinkedIn</a>
