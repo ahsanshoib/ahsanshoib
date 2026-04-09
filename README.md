@@ -8,10 +8,10 @@
 
 ABOUT ME :
 
-- Full-stack developer (Next.js + Express + MongoDB)
-- Strong in Authentication (JWT, Protected Routes)
-- AI-driven development workflow
-- Logic-first coding mindset
+* *Engineering Enthusiast :* Driven by a passion for building and tech innovation.
+ * *Love to Explore :* Always seeking new horizons, ideas, and unique experiences.
+ * *Creative Fixer :* Blending technical logic with a knack for fresh solutions.
+ * *Deep Diver :* Frequently getting lost in projects and forgetting the clock exists.
 
 ## 🚀 Skills
 
