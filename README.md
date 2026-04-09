@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+There!👋;I'm+Ahsan+Shoib+Ratul;Welcome+to+my+profile;What+would+you+prefer+?;Coffee+or+Code+?;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+🙄+🙄+🙄;Code+or+Coffee+?;" />
 </p>
 
 # 👋 Hi, I'm Ratul
@@ -8,37 +8,54 @@
 
 ## 🧠 About Me
 
+- Full-stack developer (Next.js + Express + MongoDB)
+- Strong in Authentication (JWT, Protected Routes)
+- AI-driven development workflow
+- Logic-first coding mindset
+
+## 🚀 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,tailwind,nextjs,react,nodejs,express,mongodb,git,github" />
+</p>
+
+## 🎨 Featured UI / Mockup Design
+
+<p align="center">
+  <img src="mockup.png" width="850"/>
+</p>
+
 <div align="center">
 
-<table>
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="30%" style="border: none;">
       <br />
-      <img src="https://img.icons8.com/fluency/96/palette.png" width="50" /><br />
-      <h3>Pixel to Palette</h3>
-      <b>Logic-First Lab 🧪</b><br />
+      <img src="https://cdn-icons-png.flaticon.com/512/3566/3566340.png" width="50" /><br />
+      <b>Pixel to Palette</b><br />
+      <sub>Logic-First Lab 🧪</sub><br />
       <sub>Logic Lab. Building things, with a plan.</sub>
     </td>
-    <td align="center" width="5%">
+    <td align="center" width="5%" style="border: none;">
       <br /><br />
-      <h1>➡️</h1>
+      <h2>➡️</h2>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="30%" style="border: none;">
       <br />
-      <img src="https://img.icons8.com/fluency/96/bot.png" width="50" /><br />
-      <h3>AI Orchestrator 🤖</h3>
-      <b>AI-driven Building</b><br />
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" /><br />
+      <b>AI Orchestrator 🤖</b><br />
+      <sub>AI-driven Building</sub><br />
       <sub>with a plan.</sub>
     </td>
-    <td align="center" width="5%">
+    <td align="center" width="5%" style="border: none;">
       <br /><br />
-      <h1>➡️</h1>
+      <h2>➡️</h2>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="30%" style="border: none;">
       <br />
-      <img src="https://img.icons8.com/fluency/96/city.png" width="50" /><br />
-      <h3>Architect of Tomorrow 🏗️</h3>
-      <b>Stacking blocks</b><br />
+      <img src="https://cdn-icons-png.flaticon.com/512/3251/3251433.png" width="60" /><br />
+      <b>Architect of Tomorrow 🏗️</b><br />
+      <sub>Stacking blocks</sub><br />
       <sub>for the next big thing.</sub>
     </td>
   </tr>
@@ -46,26 +63,14 @@
 
 <br />
 
-### 🛠️ Tech Stack & Architecture
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,js,ts,react" />
-</p>
 </div>
 
-## 🚀 Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,git,github" />
-</p>
 
-## 🎨 Featured UI / Mockup Design
 
-<p align="center">
-  <img src="mockup.png" width="750"/>
-</p>
 
-> ⚡ Modern LinkedIn / Portfolio mockup design showcasing UI/UX structure and personal branding.
-> 
+
+
 ## 🌐 Connect
 
 <a href="https://linkedin.com/in/ahsan-shoib-ratul">LinkedIn</a>
