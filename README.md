@@ -8,10 +8,49 @@
 
 ## 🧠 About Me
 
-- Full-stack developer (Next.js + Express + MongoDB)
-- Strong in Authentication (JWT, Protected Routes)
-- AI-driven development workflow
-- Logic-first coding mindset
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/fluency/96/palette.png" width="50" /><br />
+      <h3>Pixel to Palette</h3>
+      <b>Logic-First Lab 🧪</b><br />
+      <sub>Logic Lab. Building things, with a plan.</sub>
+    </td>
+    <td align="center" width="5%">
+      <br /><br />
+      <h1>➡️</h1>
+    </td>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/fluency/96/bot.png" width="50" /><br />
+      <h3>AI Orchestrator 🤖</h3>
+      <b>AI-driven Building</b><br />
+      <sub>with a plan.</sub>
+    </td>
+    <td align="center" width="5%">
+      <br /><br />
+      <h1>➡️</h1>
+    </td>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/fluency/96/city.png" width="50" /><br />
+      <h3>Architect of Tomorrow 🏗️</h3>
+      <b>Stacking blocks</b><br />
+      <sub>for the next big thing.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🛠️ Tech Stack & Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,js,ts,react" />
+</p>
+</div>
 
 ## 🚀 Skills
 
