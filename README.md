@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Ratul;Full-Stack+Developer;AI+Driven+Builder🔥" />
+</p>
 
-<!--
-**ahsanshoib/ahsanshoib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ratul
 
-Here are some ideas to get you started:
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Full-stack developer (Next.js + Express + MongoDB)
+- Strong in Authentication (JWT, Protected Routes)
+- AI-driven development workflow
+- Logic-first coding mindset
+
+---
+
+## 🚀 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<a href="https://linkedin.com/in/ahsan-shoib-ratul">LinkedIn</a>
+
+---
+
+## 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahsanshoib&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
+
+---
+
+## 🐍 Snake
+
+![snake](https://github.com/ahsanshoib/ahsanshoib/blob/output/github-contribution-grid-snake.svg)
