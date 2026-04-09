@@ -6,8 +6,6 @@
 
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-ABOUT ME :
-
 * *Engineering Enthusiast :* Driven by a passion for building and tech innovation.
  * *Love to Explore :* Always seeking new horizons, ideas, and unique experiences.
  * *Creative Fixer :* Blending technical logic with a knack for fresh solutions.
