@@ -64,11 +64,6 @@
 </div>
 
 
-
-
-
-
-
 ## 🌐 Connect
 
 <a href="https://linkedin.com/in/ahsan-shoib-ratul">LinkedIn</a>
@@ -78,6 +73,31 @@
 <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
 
 ---
+## 🧠 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ahsan_shoib_4O4?theme=dark&font=Baloo" />
+</p>
+
+### 🚀 Progress
+
+- 🔥 Total Solved: 0+  
+- 🧩 Focus Topics: Array, String, Basic Algorithms  
+- ⚡ Daily Goal: 2 Problems  
+
+---
+
+### 📂 My Solutions
+
+👉 Check my solutions here:  
+🔗 https://github.com/ahsanshoib/problem-solving  
+
+---
+
+### 🏆 Platforms
+
+- 💻 LeetCode  
+- ⚔️ Codeforces
 
 ## 🐍 Snake
 
