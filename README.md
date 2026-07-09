@@ -46,7 +46,7 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsanshoib&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
+  <!-- <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" /> -->
 </p>
 
 
