@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/ahsanshoib/ahsanshoib/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/3f9881457433371276719e9430539c2c0e546fe6/GITHUB%20COVER%20IMAGE.jpeg" alt="Ahsan Shoib Ratul Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
@@ -8,8 +8,8 @@
 I am a passionate Full Stack Developer with a background in Electrical Engineering, dedicated to building responsive, scalable, and efficient web applications. I love solving complex technical challenges and turning creative ideas into functional digital experiences.
 
 📍 *Location:* Chittagong, Bangladesh  
-📧 *Email:* ahsanshoib0@gmail.com  
-📞 *Contact:* 01642871497
+📧 *Email:*  
+📞 *Contact:* 
 
 ## 🛠️ Current Activities
 - 🚀 Exploring advanced patterns in *Next.js*.
