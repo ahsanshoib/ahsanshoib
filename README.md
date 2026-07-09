@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/3f9881457433371276719e9430539c2c0e546fe6/GITHUB%20COVER%20IMAGE.jpeg" alt="Ahsan Shoib Ratul Banner" width="500" />
+  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg" alt="Ahsan Shoib Ratul Banner" width="500" />
 </p>
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
