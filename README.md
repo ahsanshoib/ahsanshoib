@@ -9,7 +9,7 @@
 # 👋 Hi, I'm Ahsan Shoib Ratul
 ### Full Stack Developer
 
-<img align="right" width="350" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a passionate Full Stack Developer with a background in Electrical Engineering, dedicated to building responsive, scalable, and efficient web applications. I love solving complex technical challenges and turning creative ideas into functional digital experiences.
 
