@@ -43,6 +43,11 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
   <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
 </p>
 
+### Tools, Deployment & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,figma" />
+</p>
+
 ## 🌐 Connect
 - [LinkedIn](https://linkedin.com/in/ahsan-shoib-ratul)
 - [GitHub](https://github.com/ahsanshoib)
