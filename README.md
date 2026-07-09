@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+?+?;Code+or+Coffee+?+?+?;" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg" alt="Ahsan Shoib Ratul Banner" width="800" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+?+?;Code+or+Coffee+?+?+?;" />
+</p>
+
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
 ### Full Stack Developer
