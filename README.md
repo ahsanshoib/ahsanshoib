@@ -15,7 +15,7 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
 
 📍 Location: Chittagong, Bangladesh  
 📧 Email: ahsanshoib60@gmail.com 
-📞 Contact: +880 1642871497
+  📞 Contact: +880 1642871497
 
 ## 🛠️ Current Activities
 - 🚀 Exploring advanced patterns in *Next.js*.
