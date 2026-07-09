@@ -33,6 +33,12 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
+### Tools, Deployment & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,figma" />
+</p>
+
+
 ## 🧠 Problem Solving & Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ahsan_shoib_4O4?theme=dark&font=Baloo" />
@@ -43,10 +49,6 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
   <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
 </p>
 
-### Tools, Deployment & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,figma" />
-</p>
 
 ## 🌐 Connect
 - [LinkedIn](https://linkedin.com/in/ahsan-shoib-ratul)
