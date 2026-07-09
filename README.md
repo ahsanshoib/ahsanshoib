@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg" alt="Ahsan Shoib Ratul Banner" width="500" />
+  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg" alt="Ahsan Shoib Ratul Banner" width="800" />
 </p>
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
 ### Full Stack Developer
 
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a passionate Full Stack Developer with a background in Electrical Engineering, dedicated to building responsive, scalable, and efficient web applications. I love solving complex technical challenges and turning creative ideas into functional digital experiences.
 
