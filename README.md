@@ -35,7 +35,7 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
 
 ### Tools, Deployment & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" />
 </p>
 
 
