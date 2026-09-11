@@ -36,7 +36,15 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
   <img src="https://skillicons.dev/icons?i=daisyui,framer,figma" />
 </p>
 
-### UI Libraries & Frameworks
+
+### 🎨 UI Libraries & Frameworks
+
+<p>
+  <img src="https://cdn.simpleicons.org/shadcnui" height="45" alt="Shadcn UI" />
+  <img src="https://cdn.simpleicons.org/daisyui" height="45" alt="DaisyUI" />
+  <img src="https://cdn.simpleicons.org/framer" height="45" alt="Framer Motion" />
+</p>
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=shadcn" />
