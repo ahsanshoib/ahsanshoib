@@ -1,53 +1,72 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg" alt="Ahsan Shoib Ratul Banner" width="800" />
+  <img
+    src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg"
+    alt="Ahsan Shoib Ratul — Full Stack Developer"
+    width="800"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+?+?;Code+or+Coffee+?+?+?;" />
+  <strong>Full-Stack Developer · React · Next.js · TypeScript · AI-Powered Web Applications</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahsanshoib">
+    <img src="https://img.shields.io/github/followers/ahsanshoib?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/ahsanshoib?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/ahsan-shoib-ratul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
 
-### Full Stack Developer
+### Full-Stack Developer
 
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I'm a Full-Stack Developer with a background in Electrical Engineering, focused on building modern, responsive, and maintainable web applications.
 
-I am a passionate Full Stack Developer with a background in Electrical Engineering, dedicated to building responsive, scalable, and efficient web applications. I love solving complex technical challenges and turning creative ideas into functional digital experiences.
+I enjoy turning ideas into production-oriented digital products — from designing responsive interfaces to building APIs, authentication systems, database architectures, and AI-powered workflows.
 
-📍 Location: Chittagong, Bangladesh
-📧 Email: [ahsanshoib60@gmail.com](mailto:ahsanshoib60@gmail.com) <br>
-📞 Contact: +880 1642871497
+My current focus is on *React, Next.js, TypeScript, modern web standards, performance, accessibility, and scalable full-stack architecture.*
 
-## 🛠️ Current Activities
+📍 Chattogram, Bangladesh  
+📧 [ahsanshoib60@gmail.com](mailto:ahsanshoib60@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/ahsan-shoib-ratul)
 
-* 🚀 Exploring advanced patterns in Next.js.
-* 🌐 Currently developing an interactive Tourism Website.
-* 🛠️ Refining my expertise in Full Stack architecture.
+---
 
-## 🚀 Skills
+## 🚀 What I'm Working On
+
+- Building full-stack applications with *Next.js, React, and TypeScript*
+- Exploring advanced *Next.js App Router and application architecture*
+- Developing *AI-powered features and workflows*
+- Improving *web performance, accessibility, and responsive UI*
+- Strengthening my understanding of *clean architecture, APIs, authentication, and scalable systems*
+- Continuously improving my *JavaScript and problem-solving skills*
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=daisyui,framer,figma" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" />
 </p>
 
-
-### 🎨 UI Libraries & Frameworks
+### UI & Interaction
 
 <p>
-  <img src="https://cdn.simpleicons.org/shadcnui" height="45" alt="Shadcn UI" />
-  <img src="https://cdn.simpleicons.org/daisyui" height="45" alt="DaisyUI" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://cdn.simpleicons.org/shadcnui" height="45" alt="shadcn/ui" />
   <img src="https://cdn.simpleicons.org/framer" height="45" alt="Framer Motion" />
-</p>
-
-
-<p>
-  <img src="https://skillicons.dev/icons?i=shadcn" />
 </p>
 
 ### Backend & Database
@@ -62,37 +81,114 @@ I am a passionate Full Stack Developer with a background in Electrical Engineeri
   <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
 </p>
 
-## 🤖 AI & AI-Assisted Development
+---
 
-* AI API Integration
-* AI-powered Application Development
-* Chatbot Integration
-* Prompt Engineering
-* Context Engineering
-* Document Summarization
-* AI Workflow Design
-* AI-assisted Development
+## 🤖 AI & Modern Web Development
 
-## 🧠 Problem Solving & Stats
+I use AI as an engineering tool — both for building AI-powered products and for improving development workflows.
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ahsan_shoib_4O4?theme=dark&font=Baloo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanshoib&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=ahsanshoib&theme=tokyonight" />
-</p>
-
-## 🌐 Connect
-
-* [LinkedIn](https://linkedin.com/in/ahsan-shoib-ratul)
-* [GitHub](https://github.com/ahsanshoib)
-
-## 🐍 Activity Snake
-
-![snake](https://github.com/ahsanshoib/ahsanshoib/blob/output/github-contribution-grid-snake.svg)
+- Generative AI API integration
+- AI-powered web applications
+- Conversational interfaces & chatbots
+- Structured AI workflows
+- Prompt & context engineering
+- Document summarization
+- AI-assisted development
 
 ---
 
-<p align="center"><sub>Built with passion by Ahsan Shoib Ratul</sub></p>
+## 🏗️ Selected Work
+
+### 📚 StudyMate AI
+
+A full-stack AI-powered study assistant designed to help students plan and organize their exam preparation.
+
+*Highlights:*
+- AI-powered exam planning
+- Dynamic study-plan generation
+- Weak-topic prioritization
+- Interactive AI chat
+- Authentication
+- Article publishing and reading
+- Data visualization
+- Structured AI responses
+
+*Built with:* Next.js · TypeScript · React · Tailwind CSS · shadcn/ui · TanStack Query · Recharts · Firebase · Generative AI
+
+---
+
+### 🎟️ EventSphere
+
+A modern event management and booking application focused on creating a clean and responsive user experience.
+
+*Focus areas:*
+- Responsive UI
+- Event discovery
+- Booking workflows
+- Component-driven architecture
+- Type-safe development
+
+*Built with:* React · TypeScript · Tailwind CSS · REST APIs
+
+---
+
+### 🚗 DriveFleet
+
+A full-stack vehicle management application built to practice real-world application architecture and backend integration.
+
+*Focus areas:*
+- Authentication
+- CRUD workflows
+- REST API integration
+- Database operations
+- Responsive dashboard UI
+
+*Built with:* React · JavaScript · Node.js · Express · MongoDB
+
+---
+
+## 🧠 Engineering Principles
+
+I care about more than simply making an application work.
+
+I try to build software that is:
+
+- *Accessible* — usable by as many people as possible
+- *Responsive* — consistent across devices and screen sizes
+- *Performant* — optimized for real-world usage
+- *Maintainable* — structured for future changes
+- *Type-safe* — using TypeScript where it adds value
+- *User-focused* — solving the actual problem rather than adding unnecessary complexity
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahsanshoib&show_icons=true&hide_border=true&theme=transparent"
+    alt="Ahsan Shoib's GitHub statistics"
+  />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/ahsan-shoib-ratul">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shoib%20Ratul-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ahsanshoib60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahsanshoib60%40gmail.com-EA4335?style=flat&logo=gmail" />
+  </a>
+  <a href="https://github.com/ahsanshoib">
+    <img src="https://img.shields.io/badge/GitHub-ahsanshoib-181717?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building, learning, and improving — one commit at a time.</sub>
+</p>
