@@ -1,7 +1,7 @@
 <p align="center">
   <img
-     src="https://github.com/user-attachments/assets/2c30bd5b-4ff5-4e21-9e9c-ac0d4ec7994a" alt="Ahsan Shoib Ratul — Full Stack Developer" />
-    width="800"
+     src="https://github.com/user-attachments/assets/2c30bd5b-4ff5-4e21-9e9c-ac0d4ec7994a" alt="Ahsan Shoib Ratul — Full Stack Developer" 
+    width="800" />
 </p>
 
 <p align="center">
