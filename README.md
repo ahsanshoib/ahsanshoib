@@ -1,26 +1,16 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ahsanshoib/ahsanshoib/ddd90e2dc9c630002876e1515e0f57cc44d29c52/github%20new%20banner.jpeg"
+    src="https://drive.google.com/file/d/12aUcoUchVYjc4b1vSoH9SoT075tzXPMm/view?usp=sharing"
     alt="Ahsan Shoib Ratul — Full Stack Developer"
     width="800"
   />
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer · React · Next.js · TypeScript · AI-Powered Web Applications</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Heyyyyyyy!+!+!+!+!+!+!+!+👋;Welcome+to+my+profile+🥳;What+would+you+prefer+?+?+?;Code+or+Coffee+?+?+?;" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ahsanshoib">
-    <img src="https://img.shields.io/github/followers/ahsanshoib?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/ahsanshoib?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/ahsan-shoib-ratul">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
-  </a>
-</p>
+
 
 # 👋 Hi, I'm Ahsan Shoib Ratul
 
@@ -172,6 +162,14 @@ I try to build software that is:
 </p>
 
 ---
+
+## 🧠 Problem Solving & Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ahsan_shoib_4O4?theme=dark&font=Baloo" />
+</p>
+
+
 
 ## 🌐 Let's Connect
 
