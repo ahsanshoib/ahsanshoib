@@ -161,11 +161,6 @@ I try to build software that is:
 
 ---
 
-## 🧠 Problem Solving & Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ahsan_shoib_4O4?theme=dark&font=Baloo" />
-</p>
 
 
 
