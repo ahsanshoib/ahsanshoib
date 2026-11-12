@@ -81,7 +81,7 @@ I use AI as an engineering tool — both for building AI-powered products and fo
 - Structured AI workflows
 - Prompt & context engineering
 - Document summarization
-- AI-assisted development
+- AI-assisted development.
 
 ---
 
